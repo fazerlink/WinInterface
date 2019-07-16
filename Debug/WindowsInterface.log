@@ -1,0 +1,11 @@
+﻿  Iteratiron_method.cpp
+C:\Users\Gleb\source\repos\WindowsInterface\WindowsInterface\Iteratiron_method.cpp(118): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Gleb\source\repos\WindowsInterface\WindowsInterface\Iteratiron_method.cpp(119): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Gleb\source\repos\WindowsInterface\WindowsInterface\Iteratiron_method.cpp(120): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Main.cpp
+  Database.cpp
+C:\Users\Gleb\source\repos\WindowsInterface\WindowsInterface\Database.cpp(24): warning C4101: KEK: неиспользованная локальная переменная
+  Создание кода...
+  sqlite3.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Gleb\source\repos\WindowsInterface\Debug\WindowsInterface.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
